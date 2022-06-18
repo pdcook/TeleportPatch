@@ -1,8 +1,8 @@
 {
     "name": "TeleportPatch",
-    "version_number": "0.0.0",
+    "version_number": "0.0.1",
     "website_url": "https://github.com/pdcook/TeleportPatch",
-    "description": "Patches issues with Teleport not being removed properly.",
+    "description": "Patches several issues with Teleport.",
     "dependencies": [
 	"BepInEx-BepInExPack_ROUNDS-5.4.1900"
     ]
